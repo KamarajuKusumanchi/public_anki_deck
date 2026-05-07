@@ -675,6 +675,16 @@
             "guid": "dL6Y2yP`#M",
             "note_model_uuid": "56671b6a-b205-11ef-9801-d0abd5c278c3",
             "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The first word after a CLI program (like <code>commit</code> in <code>git commit</code>) is called a {{c1::subcommand}}",
+                ""
+            ],
+            "guid": "iB}Q*xxs)[",
+            "note_model_uuid": "56671b6a-b205-11ef-9801-d0abd5c278c3",
+            "tags": []
         }
     ],
     "reviewLimit": null,
