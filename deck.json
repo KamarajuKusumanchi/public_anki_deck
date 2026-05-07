@@ -7,6 +7,7 @@
             "crowdanki_uuid": "694c35d2-9471-11ef-9705-adc2ed85f6c0",
             "deck_config_uuid": "f7e7aa84-942a-11ef-9852-19769ddbf930",
             "desc": "",
+            "desiredRetention": null,
             "dyn": 0,
             "extendNew": 0,
             "extendRev": 0,
@@ -29,7 +30,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Who is the current president of United States?",
-                        "Joe Biden"
+                        "Donald Trump "
                     ],
                     "guid": "nn6/`RI)RY",
                     "note_model_uuid": "f7e7ca3c-942a-11ef-9852-19769ddbf930",
@@ -163,13 +164,15 @@
                     ],
                     "guid": "z^TRz(mMm)",
                     "note_model_uuid": "f7e7ca3c-942a-11ef-9852-19769ddbf930",
-                    "tags": []
+                    "tags": [
+                        "leech"
+                    ]
                 },
                 {
                     "__type__": "Note",
                     "fields": [
                         "Who is Karl Landsteiner and what did he discover about blood?",
-                        "He discovered the four blood groups in 1901."
+                        "He discovered the four blood groups in 1900."
                     ],
                     "guid": "K*Ybwb[lZK",
                     "note_model_uuid": "f7e7ca3c-942a-11ef-9852-19769ddbf930",
@@ -185,7 +188,9 @@
                     ],
                     "guid": "g8ggG",
                     "note_model_uuid": "f7e7ca3c-942a-11ef-9852-19769ddbf930",
-                    "tags": []
+                    "tags": [
+                        "leech"
+                    ]
                 },
                 {
                     "__type__": "Note",
@@ -205,7 +210,9 @@
                     ],
                     "guid": "D72#<(O,e%",
                     "note_model_uuid": "f7e7ca3c-942a-11ef-9852-19769ddbf930",
-                    "tags": []
+                    "tags": [
+                        "leech"
+                    ]
                 }
             ],
             "reviewLimit": null,
@@ -217,6 +224,7 @@
             "crowdanki_uuid": "694c0f30-9471-11ef-9705-adc2ed85f6c0",
             "deck_config_uuid": "f7e7aa84-942a-11ef-9852-19769ddbf930",
             "desc": "",
+            "desiredRetention": null,
             "dyn": 0,
             "extendNew": 0,
             "extendRev": 0,
@@ -253,7 +261,9 @@
                     ],
                     "guid": "z*Dgw`TqtX",
                     "note_model_uuid": "f7e7ca3c-942a-11ef-9852-19769ddbf930",
-                    "tags": []
+                    "tags": [
+                        "leech"
+                    ]
                 },
                 {
                     "__type__": "Note",
@@ -263,7 +273,9 @@
                     ],
                     "guid": "ued0c96^h?",
                     "note_model_uuid": "f7e7ca3c-942a-11ef-9852-19769ddbf930",
-                    "tags": []
+                    "tags": [
+                        "leech"
+                    ]
                 },
                 {
                     "__type__": "Note",
@@ -273,6 +285,16 @@
                     ],
                     "guid": "Is_?{NA!I~",
                     "note_model_uuid": "f7e7ca3c-942a-11ef-9852-19769ddbf930",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "The Spanish word <b>éxito</b> (with an accent mark on the 'e') means <b>{{c1::success}}</b>, <b>{{c2::achievement}}</b>, or a <b>{{c3::hit}}</b> (like a successful song or movie). It is a false friend; the Spanish word for \"exit\" is <b>{{c4::salida}}</b>.",
+                        ""
+                    ],
+                    "guid": "haAi$khz}t",
+                    "note_model_uuid": "56671b6a-b205-11ef-9801-d0abd5c278c3",
                     "tags": []
                 }
             ],
@@ -285,6 +307,7 @@
             "crowdanki_uuid": "5666f5eb-b205-11ef-84f3-d0abd5c278c3",
             "deck_config_uuid": "f7e7aa84-942a-11ef-9852-19769ddbf930",
             "desc": "",
+            "desiredRetention": null,
             "dyn": 0,
             "extendNew": 0,
             "extendRev": 0,
@@ -351,6 +374,7 @@
             "dyn": false,
             "easyDaysPercentages": [],
             "fsrsParams5": [],
+            "fsrsParams6": [],
             "fsrsWeights": [],
             "ignoreRevlogsBeforeDate": "",
             "interdayLearningMix": 0,
@@ -405,10 +429,12 @@
         }
     ],
     "desc": "",
+    "desiredRetention": null,
     "dyn": 0,
     "extendNew": 0,
     "extendRev": 0,
     "media_files": [
+        "American_Chemical_Society_logo.svg.png",
         "gunnys_noun_004_1440.jpg"
     ],
     "name": "public_anki_deck",
@@ -587,6 +613,66 @@
                 "Ref:- https://discrete.openmathbooks.org/dmoi4/sec_counting-pascal.html#subsec-counting-binom-bitstrings"
             ],
             "guid": "t7IJLT[;Qh",
+            "note_model_uuid": "56671b6a-b205-11ef-9801-d0abd5c278c3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<div>The first effective measles vaccine was developed by {{c1::Dr. John F. Enders}}&nbsp;and licensed in {{c2::1963}}.<sup></sup><div></div></div><div><br></div><div>An improved and weaker measles vaccine was later developed by {{c3::Dr. Maurice Hilleman}}&nbsp;and began to be distributed in {{c4::1968}}.<sup></sup>&nbsp;</div><div><br></div><div>{{c5::Dr. Maurice Hilleman}} also developed the combined {{c6::MMR (measles, mumps, rubella)}} vaccine in {{c7::1971}}.</div>",
+                ""
+            ],
+            "guid": "B-a3<>7GGR",
+            "note_model_uuid": "56671b6a-b205-11ef-9801-d0abd5c278c3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::Brazil}} is the largest coffee producer in the world and {{c2::Vietnam}} is the second.<br><br>asof | 2024",
+                ""
+            ],
+            "guid": "jA+6!J?6K2",
+            "note_model_uuid": "56671b6a-b205-11ef-9801-d0abd5c278c3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This is the logo of {{c1::the American Chemical Society}}<br><img src=\"American_Chemical_Society_logo.svg.png\">",
+                ""
+            ],
+            "guid": "KL?7Wf{3>!",
+            "note_model_uuid": "56671b6a-b205-11ef-9801-d0abd5c278c3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In {{c1::1628}}, {{c2::William Harvey}} provided the first full and accurate description of {{c3::blood circulation}} in the human body . But many people doubted his theory because he was not able to find the means by which blood passed from the arterial to the venous system. It was {{c4::Marcello Malpighi}} that discovered the “missing link” in {{c5::1661}}. Using the newly invented microscope, he discovered the network of tiny capillaries that are {{c6::10}} times thinner than human hairs and link {{c7::arteries}} and {{c7::veins}}.<br><br><span style=\"color: rgb(51, 51, 51); background-color: rgb(255, 255, 255);\">Ref: The Medicine Book: Big Ideas Simply Explained - DK - 2021 → pg-66, 70-73.</span>",
+                ""
+            ],
+            "guid": "A7X8C[#:k4",
+            "note_model_uuid": "56671b6a-b205-11ef-9801-d0abd5c278c3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "An {{c1::apiologist}} is a scientist who specializes in {{c1::apiology}}, the scientific study of {{c2::honeybees}}. ",
+                ""
+            ],
+            "guid": "Q}^HPRn}/m",
+            "note_model_uuid": "56671b6a-b205-11ef-9801-d0abd5c278c3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The currency of Argentina is the {{c1::Argentine Peso (ARS)}}.<sup></sup> It is identified by the symbol {{c1::$}}.",
+                ""
+            ],
+            "guid": "dL6Y2yP`#M",
             "note_model_uuid": "56671b6a-b205-11ef-9801-d0abd5c278c3",
             "tags": []
         }
