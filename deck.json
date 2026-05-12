@@ -3,7 +3,56 @@
     "children": [
         {
             "__type__": "Deck",
-            "children": [],
+            "children": [
+                {
+                    "__type__": "Deck",
+                    "children": [
+                        {
+                            "__type__": "Deck",
+                            "children": [],
+                            "crowdanki_uuid": "cc5b441b-4e33-11f1-ae9d-d0abd5c278c3",
+                            "deck_config_uuid": "f7e7aa84-942a-11ef-9852-19769ddbf930",
+                            "desc": "",
+                            "desiredRetention": null,
+                            "dyn": 0,
+                            "extendNew": 0,
+                            "extendRev": 0,
+                            "media_files": [],
+                            "name": "Brand Ownership",
+                            "newLimit": null,
+                            "newLimitToday": null,
+                            "notes": [
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Maytag is owned by {{c1::Whirlpool Corporation}}, which acquired the brand in {{c2::2006}} for approximately {{c3::$1.7 billion}}",
+                                        ""
+                                    ],
+                                    "guid": "P`)ieErTN$",
+                                    "note_model_uuid": "56671b6a-b205-11ef-9801-d0abd5c278c3",
+                                    "tags": []
+                                }
+                            ],
+                            "reviewLimit": null,
+                            "reviewLimitToday": null
+                        }
+                    ],
+                    "crowdanki_uuid": "cc5b2dca-4e33-11f1-af35-d0abd5c278c3",
+                    "deck_config_uuid": "f7e7aa84-942a-11ef-9852-19769ddbf930",
+                    "desc": "",
+                    "desiredRetention": null,
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [],
+                    "name": "Business",
+                    "newLimit": null,
+                    "newLimitToday": null,
+                    "notes": [],
+                    "reviewLimit": null,
+                    "reviewLimitToday": null
+                }
+            ],
             "crowdanki_uuid": "694c35d2-9471-11ef-9705-adc2ed85f6c0",
             "deck_config_uuid": "f7e7aa84-942a-11ef-9852-19769ddbf930",
             "desc": "",
@@ -437,6 +486,7 @@
         "American_Chemical_Society_logo.svg.png",
         "gunnys_noun_004_1440.jpg"
     ],
+    "mid": 1637287356361,
     "name": "public_anki_deck",
     "newLimit": null,
     "newLimitToday": null,
